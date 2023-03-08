@@ -4,3 +4,4 @@ const firstPart = [
   "absolutely nothing",
   ["nada", ["zilch"]],
 ];
+let secondPart = firstPart.flat(1);
